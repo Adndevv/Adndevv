@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Adnane%20Harwi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Digital%20Artist&descAlignY=60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Adnane+Harwi;Web+Developer;Digital+Artist;Always+Learning+🚀" />
 </p>
 ## 🚀 About Me
 
