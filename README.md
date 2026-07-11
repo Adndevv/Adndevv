@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adnane 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Digital+Development+Student;Web+Developer;Python+%7C+JavaScript+%7C+PHP;Artist+%26+Portrait+Drawer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Digital+Development+Student;Web+Developer;Python+%7C+JavaScript+%7C+PHP;Artist+%26+Portrait+Drawer;Always+Learning+New+Things" />
 </p>
 
 ---
