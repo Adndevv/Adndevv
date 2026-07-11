@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Adnane 
 
+
+<h3 align="center">
+Web Developer • Digital Artist • Creative Thinker
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Adnane%20Harwi&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+Building elegant websites and creating realistic portraits.
 </p>
 ## 🚀 About Me
 
