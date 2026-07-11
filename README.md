@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Adnane 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=0CB7C9&center=true&vCenter=true&width=850&lines=Web+Developer+💻;Digital+Artist+🎨;Always+Learning+🚀;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Web+Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=Digital+Artist" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Always+Learning" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=7CFC00&center=true&vCenter=true&width=850&lines=Welcome" />
 </p>
+
 ## 🚀 About Me
 
 🎓 Digital Development student from Morocco.
