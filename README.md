@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Web+Developer;Digital+Artist;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=#0cb7c9&center=true&vCenter=true&width=850&lines=Web+Developer;Digital+Artist;Always+Learning+; welcome" />
 </p>
 ## 🚀 About Me
 
