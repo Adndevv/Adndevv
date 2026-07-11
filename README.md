@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=0cb7c9&center=true&vCenter=true&width=850&lines=Web+Developer;Digital+Artist;Always+Learning+; welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3500&pause=1000&color=0CB7C9&center=true&vCenter=true&width=850&lines=Adnane+Harwi;Web+Developer+💻;Digital+Artist+🎨;Always+Learning+🚀;Welcome+to+my+GitHub+Profile!" />
 </p>
 ## 🚀 About Me
 
