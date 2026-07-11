@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Adnane 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Digital+Development+Student;Web+Developer;Python+%7C+JavaScript+%7C+PHP;Artist+%26+Portrait+Drawer;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Adnane%20Harwi&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 </p>
-
 ## 🚀 About Me
 
 🎓 Digital Development student from Morocco.
