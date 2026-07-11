@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=5000&pause=1200&color=FFD700&center=true&vCenter=true&repeat=true&width=900&lines=Web+Developer;Welcome+to+my+GitHub+Profile" />
 </p>
 
-## . About Me
+##  <h2> About Me </h2>
 
 🎓 Digital Development student from Morocco.
 
