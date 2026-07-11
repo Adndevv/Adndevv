@@ -1,16 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm Adnane 
 
-<!--
-**Adndevv/Adndevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Digital+Development+Student;Web+Developer;Python+%7C+JavaScript+%7C+PHP;Artist+%26+Portrait+Drawer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 Digital Development student from Morocco.
+
+💻 Passionate about Web Development, Programming and creating useful digital projects.
+
+🎨 Besides coding, I enjoy drawing realistic portraits and expressing creativity through art.
+
+📚 Currently learning:
+
+* JavaScript
+* Python
+* PHP
+* MySQL
+* Django
+* Git & GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,django"/>
+</p>
+
+---
+
+## 📂 Current Projects
+
+🌐 Personal Portfolio
+
+🎨 Virtual Art Gallery
+
+📚 Programming Practice Projects
+
+🚀 Web Applications
+
+---
+
+## 🎯 Goals for 2026
+
+* ✅ Master JavaScript
+* ✅ Become a Full Stack Developer
+* ✅ Build real-world web applications
+* ✅ Contribute to Open Source
+* ✅ Create impactful digital experiences
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "Code with Logic. Create with Passion."
+
+</p>
