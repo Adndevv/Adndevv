@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Adnane 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Web+Developer" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=7000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=Digital+Artist" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=11500&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Always+Learning" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=1000&color=7CFC00&center=true&vCenter=true&width=850&lines=Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&lines=💻+Web+Developer;🎨+Digital+Artist;🚀+Always+Learning;✨+Welcome+to+my+GitHub+Profile" />
 </p>
 
 ## 🚀 About Me
